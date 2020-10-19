@@ -15,7 +15,7 @@ public class DetailsResponse {
     public Double popularity;
     public String poster_path;
     public String tagline;
-    public String title;
+    public String title;//
     public Boolean video;
     public Double vote_average;
     public Integer vote_count;

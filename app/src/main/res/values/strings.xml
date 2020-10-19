@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">TMDB Demo app</string>
-    <string name="API_Key">This is where the API Key goes</string>
+    <string name="API_Key">10f4e0b50d4afc47ca6143acabb42f7d</string>
     <string name="login">Login</string>
     <string name="credits">Created by Benjamin Füri</string>
 </resources>
